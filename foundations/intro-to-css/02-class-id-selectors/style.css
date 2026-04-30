@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+#one {
+    color: blue;
+    font-size: 36px;
+}
+#two{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.first, .third, .fifth{
+    background-color: lightcoral;
+    font-family:"Verdana", "DejaVu Sans", sans-serif ;
+}
+.third{
+    font-size: 24px;
+}
